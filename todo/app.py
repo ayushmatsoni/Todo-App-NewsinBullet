@@ -24,7 +24,7 @@ def parse(command):
     return 'invalid', []
 
 def main():
-  print('Started the Todo application...')
+  print('Started the News in Bullet Todo application...')
   current_list = ''
   while(1):
     # take the command as input from the user
